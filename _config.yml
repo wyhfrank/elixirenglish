@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -15,7 +15,7 @@ title                    : "Elixir English"
 title_zh                 : "易立思英语"
 title_separator          : "-"
 name                     : &name "Elixir English" # &name is a YAML anchor which can be *referenced later
-description              : &description "中文介绍。A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "崇州市最专业的英语培训机构。"
 url                      : http://elixirenglish.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
+  avatar           : # "/assets/images/michael-rose.jpg"
   bio              : "专业英语培训"
   location         :
   email            :
@@ -187,18 +187,21 @@ kramdown:
 
 # Collections
 collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # case:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # # docs:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # pets:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
