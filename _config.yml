@@ -16,7 +16,7 @@ title_zh                 : "易立思英语"
 title_separator          : "-"
 name                     : &name "Elixir English" # &name is a YAML anchor which can be *referenced later
 description              : &description "中文介绍。A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://elixirenglish.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://elixirenglish.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,8 +102,8 @@ author:
   bio              : "专业英语培训"
   location         :
   email            :
-  uri              : "https://elixirenglish.com"
-  home             : "https://elixirenglish.com"
+  uri              : "http://elixirenglish.com"
+  home             : "http://elixirenglish.com"
   bitbucket        :
   codepen          :
   dribbble         :
