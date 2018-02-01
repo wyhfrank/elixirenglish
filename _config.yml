@@ -11,10 +11,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Elixir English"
-title_zh                 : "易立思英语"
+title                    : "易立思英语"
+title_en                  : "Elixir English"
 title_separator          : "-"
-name                     : &name "Elixir English" # &name is a YAML anchor which can be *referenced later
+name                     : &name "易立思英语" # &name is a YAML anchor which can be *referenced later
 description              : &description "崇州市最专业的英语培训机构。"
 url                      : http://elixirenglish.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
