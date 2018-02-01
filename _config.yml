@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -67,10 +67,10 @@ naver_site_verification  :
 
 # Social Sharing
 weixin:
-  id                     : &weixin "123456"
+  id                     : # &weixin "123456"
   qr_code                : ""
 weibo:
-  id                     : &weibo "123456"
+  id                     : # &weibo "123456"
 
 # twitter:
 #   username               : &twitter "mmistakes"
