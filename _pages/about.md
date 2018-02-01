@@ -1,85 +1,39 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "学校简介"
+excerpt: "易立思英语——为您提供最专业的英语学习方案。"
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2018-01-10T11:22:24-05:00
-toc: true
+  - url: /assets/images/office-1.jpg
+    image_path: /assets/images/office-1.jpg
+    alt: "Office"
+  - url: /assets/images/office-2.jpg
+    image_path: /assets/images/office-2.jpg
+    alt: "Office"
+  - url: /assets/images/office-3.jpg
+    image_path: /assets/images/office-3.jpg
+    alt: "Office"
+  - url: /assets/images/office-4.jpg
+    image_path: /assets/images/office-4.jpg
+    alt: "Office"
+last_modified_at: 2018-02-2T11:22:24+08:00
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+易立思英语学校位于崇州市滨江路北一段280号（3楼），总面积约550平方米，具备专业办学资质。学校附近环境优美，安静；校区内宽敞，明亮。易立思英语拥有一支专业的师资团队，学校秉承“轻松学习，能力塑造， 独立思考”理念，将国内外先进教育研究与教学实践相结合，为学生提供最适合的英语学习方案。 
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+Elixir English School is located at No.280 North First Section, Binjiang Road, Chongzhou. The School covers 550 square meters on the third floor and is a qualified private educational institution. Elixir English is surrounded by a tranquil environment and its learning space offers a delightful and bright ambience for students to enjoy English learning. The School boasts a professional team of tutors and instructors who are dedicated to “easy learning, capacity building and independent thinking”. Combining advanced English teaching research and practices, the School aims to explore pedagogies that suit students of different learner varieties. 
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | absolute_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
+{% include gallery id="layouts_gallery" caption="我们的教学环境。" %}
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, [Discourse](https://www.discourse.org/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Indonesian, Italian (Italiano), Japanese, Korean, Nepali (Nepalese), Polish, Russian, Spanish (Español), Swedish, Turkish (Türkçe), and Vietnamese.
+## 微信公众号
 
-## Demo Pages
+敬请关注我们的**微信公众号**，了解最新动态。
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wechat-public.jpg)
 
-For even more demo pages check the [posts archive][year-archive].
 
-[header-image-post]: {{ "" | absolute_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | absolute_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | absolute_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | absolute_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | absolute_url }}
-[categories-archive]: {{ "/categories/" | absolute_url }}
-[tags-archive]: {{ "/tags/" | absolute_url }}
-[year-archive]: {{ "/year-archive/" | absolute_url }}
+## 咨询账号 {#inquiry}
 
----
+如有任何疑问，欢迎请随时添加我们的**官方微信号**：elixirenglish。
 
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wechat-inquiry.jpg)

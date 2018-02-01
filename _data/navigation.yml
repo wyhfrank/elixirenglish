@@ -24,8 +24,10 @@ main:
     # url: /docs/quick-start-guide/
   - title: "首页"
     url: /
-  - title: "关于"
+  - title: "公司简介"
     url: /about/
+  - title: "关于我们"
+    url: /about-us/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
