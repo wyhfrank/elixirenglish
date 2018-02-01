@@ -60,7 +60,7 @@ search                   : false # true, false (default)
 search_full_content      : false # true, false (default)
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification : # "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -102,8 +102,8 @@ author:
   bio              : "专业英语培训"
   location         :
   email            :
-  uri              : "http://elixirenglish.com"
-  home             : "http://elixirenglish.com"
+  uri              : # "http://elixirenglish.com"
+  home             : # "http://elixirenglish.com"
   bitbucket        :
   codepen          :
   dribbble         :
