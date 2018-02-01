@@ -15,7 +15,7 @@ title                    : "易立思英语"
 title_en                  : "Elixir English"
 title_separator          : "-"
 name                     : &name "易立思英语" # &name is a YAML anchor which can be *referenced later
-description              : &description "崇州市最专业的英语培训机构。"
+description              : &description "专业的英语培训机构。"
 url                      : http://elixirenglish.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
