@@ -3,6 +3,7 @@ permalink: /about-us/
 title: "创始人简介"
 excerpt: "高学历创始人团队。"
 last_modified_at: 2018-02-2T11:22:24-05:00
+toc: true
 ---
 
 ## 校长：Allison Huang
