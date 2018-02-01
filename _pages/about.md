@@ -28,12 +28,14 @@ Elixir English School is located at No.280 North First Section, Binjiang Road, C
 ## 微信公众号
 
 敬请关注我们的**微信公众号**，了解最新动态。
+在`微信公众号`中搜索`易立思英语`，或扫描下方二维码：
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wechat-public.jpg)
 
 
-## 咨询账号 {#inquiry}
+## 联系我们 {#inquiry}
 
-如有任何疑问，欢迎请随时添加我们的**官方微信号**：elixirenglish。
+如有任何疑问，欢迎随时添加我们的**官方微信号**。
+在`添加好友`中搜索`elixirenglish`，或扫描下方二维码：
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wechat-inquiry.jpg)
