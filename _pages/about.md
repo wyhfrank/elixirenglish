@@ -26,7 +26,7 @@ toc: true
 
 {% include gallery id="layouts_gallery" caption="我们的教学环境。" %}
 
-## 微信公众号
+## 微信公众号 {#public}
 
 敬请关注我们的微信公众号，了解最新动态。
 在**微信公众号**中搜索<ins>易立思英语</ins>，或扫描下方二维码：
