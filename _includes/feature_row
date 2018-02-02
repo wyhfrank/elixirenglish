@@ -18,7 +18,10 @@
               {% else %}
                 "{{ f.image_path | absolute_url }}"
               {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.notice %}
+              <span class="page__hero-caption">{{ f.notice | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
           </div>
         {% endif %}
 
