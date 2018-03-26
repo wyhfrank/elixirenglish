@@ -28,6 +28,8 @@ main:
     url: /about/
   - title: "关于我们"
     url: /about-us/
+  - title: "文化角"
+    url: /culture-corner/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
