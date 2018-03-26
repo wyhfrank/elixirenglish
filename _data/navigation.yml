@@ -30,6 +30,8 @@ main:
     url: /about-us/
   - title: "文化角"
     url: /culture-corner/
+  - title: "推文"
+    url: /tweets/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
