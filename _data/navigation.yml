@@ -28,8 +28,8 @@ main:
     url: /about/
   - title: "关于我们"
     url: /about-us/
-  - title: "文化角"
-    url: /culture-corner/
+  - title: "文化播客"
+    url: /culture-podcast/
   - title: "推文"
     url: /tweets/
   # - title: "Sample Posts"

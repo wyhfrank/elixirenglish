@@ -1,6 +1,6 @@
 ---
-permalink: /culture-corner/
-title: "文化角"
+permalink: /culture-podcast/
+title: "文化播客"
 last_modified_at: 2018-03-26T12:42:38+09:00
 toc: false
 ---
