@@ -32,6 +32,8 @@ main:
     url: /culture-podcast/
   - title: "推文"
     url: /tweets/
+  - title: "活动"
+    url: /events/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
