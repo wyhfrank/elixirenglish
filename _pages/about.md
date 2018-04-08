@@ -26,6 +26,41 @@ toc: true
 
 {% include gallery id="layouts_gallery" caption="我们的教学环境。" %}
 
+## 教育理念
+
+易立思英语将开放式教学、因材施教及平等与尊重视为核心教学理念。
+
+### 开放式教学
+
+教学过程中没有完全既定的正确答案，开阔学生思维，让学生体验在传统学校所不能体验的新型教育。
+
+>Open-ended Instruction: we adopt a non-traditional way of instruction that frees students from fixed answers and encourages them to think out of the box.
+
+### 因材施教
+
+根据学生学习的多样性，包括：年龄、学习动机和学习态度，为学生寻找适合的学习方法。
+
+>Tailored Courses: we take into consideration the three major elements in learner variety research, namely, age, motivation and attitude, to explore the most suitable way of leaning for different students.
+
+### 平等与尊重
+
+将学生视为平等的教学参与者，关注学生学习中的心理动态，减少学生的学习压力，让学生以感到舒服的方式进行英语学习。
+
+>Equality and Respect: we see every student as an equal participant in the classroom and pay attention to the psychological aspects of students. We help students study English in an anxiety-free and comfortable way.
+
+
+## 课程设置
+
+名称|内容
+----|----
+学龄前、<br>少儿英语|培养对英语的兴趣，为将来的英语学习打下心理基础
+小学英语|Level 1 – Level 3：<br>着重培养学生的口语能力，提高学生对英语的舒适度
+中学英语|基础班：听、说、读、写基本技能培养<br>考试冲刺班：针对考试进行训练
+成人英语|按学生需求定制课程，包括旅游、商务、文化等相关课程
+留学考试|1对1的专业托福、雅思、SAT、GRE、GMAT等相关考试辅导
+特色课程|英语文化课<br>英语烘焙课<br>影视赏析课
+
+
 ## 微信公众号 {#public}
 
 敬请关注我们的微信公众号，了解最新动态。
