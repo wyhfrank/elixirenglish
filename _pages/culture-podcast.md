@@ -1,7 +1,7 @@
 ---
 permalink: /culture-podcast/
 title: "文化播客"
-last_modified_at: 2018-04-23T12:42:38+09:00
+last_modified_at: 2018-05-07T12:42:38+09:00
 toc: false
 ---
 
