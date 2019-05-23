@@ -9,8 +9,6 @@ header:
   cta_url: "/about/#inquiry"
   caption:
 excerpt: '为您提供最专业的英语学习方案。'
-description: '崇州市最专业的英语培训机构。为您提供少儿英语、中学英语、成人英语以及留学英语等培训服务。'
-keywords: '崇州市英语，英语培训机构，专业英语培训'
 feature_row:
   - image_path: /assets/images/feature-row-1.jpg
     alt: "Open"
