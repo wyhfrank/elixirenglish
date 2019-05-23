@@ -284,6 +284,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache # https://github.com/mmistakes/minimal-mistakes/issues/1875#issuecomment-427205849
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -292,6 +294,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
